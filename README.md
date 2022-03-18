@@ -1,3 +1,3 @@
-# Head First Git - Chapter 5
+# Git Practice
 
-This is my first attempt at collaborating using Git and Github.
+collaborating using Git and Github.
