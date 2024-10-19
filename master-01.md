@@ -1,1 +1,2 @@
-This file is on the master branch.
+это файл на ветке master
+это моя первая редакцияsd
