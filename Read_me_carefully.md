@@ -1,0 +1,1 @@
+It turned out that it's hard enough to focus on a certain idea and makes it real in short time. 
